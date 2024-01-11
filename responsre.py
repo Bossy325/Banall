@@ -14,7 +14,7 @@ def sample_response(input_text):
     return "HE is busy in her schedule. you can tell me i inform her"
   if user_message in ("bsdk", "madharchod", "bkl", "behanchod", "cgutiya",
                       "gaandu"):
-    return "bsdk gand mara 😡😡baap ke bina gaali mat bak aane de use"
+    return "bsdk gand mara baap ke bina gaali mat bak aane de use"
 
   if user_message in ("ladki", "pyar", "dhoka"):
     return "Pyar ek dhoka hai...aur baaki zazbhai ki gaand maar yahi sahi moka hai"
