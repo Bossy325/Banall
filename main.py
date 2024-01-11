@@ -77,7 +77,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/crushbot_support"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/Goatijo"), Button.url("••ʀєρο••", f'{bsdk}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -89,7 +89,7 @@ async def start(event):
         )
     if event.sender.id not in OP:
         await event.reply(
-            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://github.com/Darkranger00/Banall)",
+            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://github.ll)",
             link_preview=False,
         )       
 
