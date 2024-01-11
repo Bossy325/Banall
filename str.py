@@ -18,7 +18,7 @@ Add Me There And I will Ruined Group 👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [Aadil](https://t.me/aadillllll)
+❍ Code Owner » [Ronaldo](https://t.me/Goatijo)
 
 Type /help For Commands!
 """
