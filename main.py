@@ -39,11 +39,11 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "aadillllll"
-repo = "https://github.com/Darkanger00/Banall"
+Owner = "Ronaldo"
+
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/crushbot_support"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/Goatijo"), Button.url("Help", f'{https://t.me/holaien}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
